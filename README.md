@@ -24,5 +24,4 @@ Welcome to my portfolio, where I showcase my projects.
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/hafsahsiddiqui/)
-- (hafsahsiddiqui@utexas.edu)
--->
+- hafsahsiddiqui@utexas.edu
