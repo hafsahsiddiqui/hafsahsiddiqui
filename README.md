@@ -13,7 +13,7 @@ Advanced features like visitor counts, clickable icons, etc. (Note: you may need
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/hafsahsiddiqui/portfolio/blob/main/README.md).
 
 ### 🛠️ Tools
 
